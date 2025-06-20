@@ -7,3 +7,6 @@ rm
 grep
 awk
 sed
+
+crontab -e : run script(02*** /path/to/script.sh)
+
